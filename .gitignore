@@ -2,3 +2,4 @@
 /FAST API/virtual_env/Lib
 /FAST API/virtual_env/Scripts
 *.cfg
+*.pyc
