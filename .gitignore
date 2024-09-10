@@ -4,3 +4,4 @@
 *.cfg
 *.pyc
 .vscode/settings.json
+*.pyc
