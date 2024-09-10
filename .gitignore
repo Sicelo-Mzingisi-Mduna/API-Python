@@ -3,3 +3,4 @@
 /FAST API/virtual_env/Scripts
 *.cfg
 *.pyc
+.vscode/settings.json
