@@ -5,3 +5,4 @@
 *.pyc
 .vscode/settings.json
 *.pyc
+/FAST API/virtual_env/Source/__pycache__
